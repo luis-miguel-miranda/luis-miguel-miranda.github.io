@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "A Study in Scarlet. Also an experiment in writing and Jekyll",
+        "excerpt":"Maintaining a blog is something that never attracted me or piqued my interest in the slightest. Quite possibly still doesn’t. Technology and experimenting always did though, since I disassembled my first electronic appliance. That experiment brought down the fuse in my house and nearly gave my mother a heart attack,...","categories": ["start","github","jekyll"],
         "tags": [],
-        "url": "http://localhost:4001/jekyll/update/2020/07/02/welcome-to-jekyll.html",
+        "url": "http://localhost:4000/start/github/jekyll/a-study-in-scarlet/",
         "teaser": null
       }]
