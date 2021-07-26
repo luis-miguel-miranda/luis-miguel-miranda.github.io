@@ -151,7 +151,7 @@ header_pages:
 #   - tags.html
 #   - about.md
   - linkedin.md
-/
+
 # Page default value
 defaults:
   home:
