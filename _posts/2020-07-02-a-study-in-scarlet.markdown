@@ -1,6 +1,6 @@
 ---
 author: l3m
-layout: posts
+layout: post
 title:  "A Study in Scarlet. Also an experiment in writing and Jekyll"
 date:   2020-07-18 15:16:15 +0100
 categories: start github jekyll
