@@ -7,7 +7,7 @@ _site
 vendor/
 # Github pages does not need this
 Gemfile.lock 
-.bundle.
+.bundle/
 
 ### NPM ###
 /node_modules/
