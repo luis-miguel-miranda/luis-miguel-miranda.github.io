@@ -116,7 +116,7 @@ yat:
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+brand_color: greenblue
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -132,7 +132,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
