@@ -161,8 +161,8 @@ defaults:
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
+banner:
+  video: https://streamable.com/e/8ir5s2             # Video banner source
 #   loop: true              # Video loop
 #   volume: 0               # Video volume (100% is 1.0)
 #   start_at: 0             # Video start time
