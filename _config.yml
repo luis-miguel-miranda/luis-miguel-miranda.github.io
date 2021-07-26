@@ -154,8 +154,8 @@ night_mode: "on"
 # Page default value
 defaults:
   home:
-    heading: "Your awesome heading"
-    subheading: "Your awesome subheading"
+    heading: "Riding the architecture elevator"
+    subheading: "Tech rants..."
     banner: "https://ibb.co/Bwkp5vx"
 
 # Banner default settings
