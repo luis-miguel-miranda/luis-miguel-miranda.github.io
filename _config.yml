@@ -1,6 +1,6 @@
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "jekyll-theme-yat"
+#minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
