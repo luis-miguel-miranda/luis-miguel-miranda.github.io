@@ -3,6 +3,11 @@ _site
 .jekyll-metadata
 *-cache/
 
+### Ruby ###
+vendor/
+# Github pages does not need this
+Gemfile.lock 
+.bundle.
 
 ### NPM ###
 /node_modules/
