@@ -150,7 +150,7 @@ header_pages:
   - categories.html
 #   - tags.html
 #   - about.md
-  - linkedin.md
+#  - linkedin.md
 
 # Page default value
 defaults:
