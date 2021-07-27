@@ -163,7 +163,7 @@ code_badge:
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
 banner:
-  video: https://s3-vooplayer.spotlightr.com/vooplayerv4/123683/1627338859374videomp4            # Video banner source
+  video: https://l3m.cdn.spotlightr.com/watch/MTE0ODE2OA==            # Video banner source
 #   loop: true              # Video loop
 #   volume: 0               # Video volume (100% is 1.0)
 #   start_at: 0             # Video start time
