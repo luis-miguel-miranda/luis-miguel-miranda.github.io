@@ -1,6 +1,0 @@
----
-layout: about
-title: About
----
-
-<h2>About</h2>
