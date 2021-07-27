@@ -153,11 +153,11 @@ header_pages:
 #  - linkedin.md
 
 # Page default value
-defaults:
-  home:
-    heading: "Riding the architecture elevator"
-    subheading: "Tech rants..."
-    banner: "https://i.ibb.co/8XkCLGp/4CbPa.jpg"
+#defaults:
+#  home:
+#    heading: "Riding the architecture elevator"
+#    subheading: ""
+#    banner: "https://i.ibb.co/8XkCLGp/4CbPa.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
